@@ -1,3 +1,5 @@
 # Speaker and gender recognition system
 
 The main aim of this project is to discriminate the noise from the information signal and to utilise this information signal to do useful processes, in this project we have used MATLAB to code a program which is further used to differentiate between male and female voice (gender recognition using voice). Two main algorithms have been used to code and differentiate the different voices of the two different genders. Correlation and MFCC algorithms have been used to sample the input user voice and then process the voice to create a unique index to a specific user based on the properties of their sampled voice files and then the index is used to differentiate between the two users. The whole process of recognition happens in two stages, in the first stage the user input is stored in the respective MATLAB directory of the recognition folder, the voice samples should be recorded in a recorder in the system and stored as .WAV files. these files are then accessed by the MATLAB for further processing of the voice signal.
+
+Read more [here](https://sites.google.com/view/launchpadsjce/home)!
